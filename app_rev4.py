@@ -30,8 +30,22 @@ INTERNAL_SECRET_KEY = "c1b086d4-a681-48df-957f-6fcc35a82f6d"
 MIN_DISTANCE_PIPS_PER_TF = { "M5": 100, "M15": 150, "M30": 200, "H1": 250 }
 last_signal_info = {}
 SYMBOL_ALIAS_MAP = {
+    # Gold
     'XAUUSD': 'XAUUSD', 'XAUUSDc': 'XAUUSD', 'XAUUSDm': 'XAUUSD', 'GOLD': 'XAUUSD',
+    # Crypto
     'BTCUSD': 'BTCUSD', 'BTCUSDc': 'BTCUSD', 'BTCUSDm': 'BTCUSD',
+    # Forex Majors
+    'EURUSD': 'EURUSD', 'EURUSDc': 'EURUSD', 'EURUSDm': 'EURUSD',
+    'GBPUSD': 'GBPUSD', 'GBPUSDc': 'GBPUSD', 'GBPUSDm': 'GBPUSD',
+    'USDJPY': 'USDJPY', 'USDJPYc': 'USDJPY', 'USDJPYm': 'USDJPY',
+    'AUDUSD': 'AUDUSD', 'AUDUSDc': 'AUDUSD', 'AUDUSDm': 'AUDUSD',
+    'USDCAD': 'USDCAD', 'USDCADc': 'USDCAD', 'USDCADm': 'USDCAD',
+    'USDCHF': 'USDCHF', 'USDCHFc': 'USDCHF', 'USDCHFm': 'USDCHF',
+    'NZDUSD': 'NZDUSD', 'NZDUSDc': 'NZDUSD', 'NZDUSDm': 'NZDUSD',
+    # Forex Crosses
+    'EURJPY': 'EURJPY', 'EURJPYc': 'EURJPY', 'EURJPYm': 'EURJPY',
+    'GBPJPY': 'GBPJPY', 'GBPJPYc': 'GBPJPY', 'GBPJPYm': 'GBPJPY',
+    'EURGBP': 'EURGBP', 'EURGBPc': 'EURGBP', 'EURGBPm': 'EURGBP',
 }
 
 feedback_file_lock = threading.Lock()
