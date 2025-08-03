@@ -27,6 +27,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(threadName)s - %(levelname)s - %(message)s')
 
 INTERNAL_SECRET_KEY = "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+MIN_DISTANCE_PIPS_PER_TF = { "M5": 100, "M15": 150, "M30": 200, "H1": 250 }
 last_signal_info = {}
 SYMBOL_ALIAS_MAP = {
     'XAUUSD': 'XAUUSD', 'XAUUSDc': 'XAUUSD', 'XAUUSDm': 'XAUUSD', 'GOLD': 'XAUUSD',
@@ -330,6 +331,7 @@ def receive_signal():
     symbol = data.get('symbol', 'XAUUSD').upper()
     mapped_symbol = SYMBOL_ALIAS_MAP.get(symbol, 'XAUUSD')
     signal_type = data.get('signal')
+    timeframe = data.get('timeframe', 'M5') # Ambil timeframe, default ke M5 jika tidak ada
     signal_json = data.get('signal_json', {})
     
     entry_price = None

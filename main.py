@@ -188,7 +188,7 @@ def main() -> None:
                                 continue
 
                             logging.info("   -> Lolos. Siap dikirim!")
-                            send_status = send_signal_to_server(SYMBOL, signal_json, API_KEY, SERVER_URL, SECRET_KEY)
+                            send_status = send_signal_to_server(SYMBOL, signal_json, API_KEY, SERVER_URL, SECRET_KEY, tf)
                             if send_status == 'SUCCESS' or send_status == 'REJECTED':
                                 if send_status == 'SUCCESS':
                                     active_signals[sig_id] = {'signal_json': signal_json, 'tf': tf, 'timestamp': datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 'info': opp['info'], 'status': 'pending'}
