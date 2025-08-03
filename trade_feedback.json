@@ -1,0 +1,1132 @@
+[
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3295.979,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236165710,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3297.459,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236336375,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3299.451,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236347523,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3300.403,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236514647,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3300.149,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236634817,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3299.881,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236648794,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3301.614,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236717648,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3301.698,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236724556,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3301.546,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236728089,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3303.752,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236751074,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3303.715,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236756078,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3303.63,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236767271,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3309.754,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236796124,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3317.679,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236846528,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3318.051,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236849683,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3330.745,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236946962,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3330.745,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236961343,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3330.745,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236974159,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3330.885,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1236978697,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3335.403,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1237023585,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3345.397,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1237179777,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3341.862,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1237289367,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3341.898,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1237338700,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3343.4,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1237398345,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3343.55,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1237411016,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3349.69,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1237680655,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.439,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1237768699,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3351.285,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1237924402,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.216,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1238322653,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.341,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1238328001,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.216,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1238329588,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.28,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1238332448,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.719,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1238333294,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.347,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1238338311,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3347.216,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1238341815,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "XAUUSD",
+    "tf": "M15",
+    "entry": 3346.624,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1238413027,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113505.14,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1239428834,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113505.14,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1239428834,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113505.14,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1239428834,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113505.14,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1239429185,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113505.14,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1239429185,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113505.14,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1239429185,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "UNKNOWN",
+    "entry": 114080.76,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94039891,
+    "magic": 81967,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "UNKNOWN",
+    "entry": 113839.06,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 93968591,
+    "magic": 8196,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "UNKNOWN",
+    "entry": 113752.76,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94155632,
+    "magic": 8196,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "UNKNOWN",
+    "entry": 113680.46,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94162892,
+    "magic": 8196,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "UNKNOWN",
+    "entry": 113637.17,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94165905,
+    "magic": 8196,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "UNKNOWN",
+    "entry": 113592.47,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94172404,
+    "magic": 8196,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "UNKNOWN",
+    "entry": 113558.99,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94181172,
+    "magic": 8196,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "UNKNOWN",
+    "entry": 113499.7,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94187221,
+    "magic": 8196,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113729.43,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240046397,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113729.43,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240047224,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113735.06,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240047389,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113729.43,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240050638,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113729.43,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240051174,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113928.61,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240074797,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113928.61,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240075342,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113928.61,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240079279,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113928.61,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240080496,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113928.61,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240080496,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113928.61,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240079279,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113928.61,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240075342,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113928.61,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240074797,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113729.43,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240051174,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113729.43,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240050638,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113735.06,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240047389,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113729.43,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240047224,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113729.43,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240046397,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113819.49,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240196633,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113819.49,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240199494,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113819.49,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240201023,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113819.49,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240201023,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113819.49,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240199494,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113819.49,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240196633,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 113819.65,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 30521959,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113431.72,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240292527,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 113432.79,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 30548764,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 113434.81,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 30548814,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 113614.8,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 30553009,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113614.04,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240303680,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113284.86,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240576884,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113284.86,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240592017,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 113124.76,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94700152,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113126.39,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240617597,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 113124.76,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94700607,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113124.76,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240618783,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113425.24,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240692597,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113425.24,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240693212,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113425.24,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240694059,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113425.24,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240694404,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 112905.33,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240809680,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 112905.33,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94857132,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 112905.33,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240809932,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 112905.33,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240810036,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 112905.33,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94857360,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 112905.33,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240810487,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 112905.33,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94857616,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 112906.74,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240811053,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 112905.33,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94858183,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 112905.33,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1240811242,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 112906.77,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 94858396,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "UNKNOWN",
+    "entry": 113653.88,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 95591037,
+    "magic": 0,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "UNKNOWN",
+    "entry": 113668.49,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 95608203,
+    "magic": 0,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113646.08,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1241654651,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 113646.08,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 95620596,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 113645.03,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 31058528,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113748.16,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1241715938,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 113744.23,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 31077358,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDm",
+    "tf": "M15",
+    "entry": 113749.29,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 95683906,
+    "magic": 510015,
+    "apikey": "ec90dc5c-c771-4e48-bcce-4069cc2acbf9"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113862.29,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1241757339,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113862.29,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1241759914,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSD",
+    "tf": "M15",
+    "entry": 113862.29,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 1241760202,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  },
+  {
+    "symbol": "BTCUSDc",
+    "tf": "M15",
+    "entry": 113859.18,
+    "result": "executed",
+    "order_type": "pending",
+    "ticket": 31087812,
+    "magic": 510015,
+    "apikey": "c1b086d4-a681-48df-957f-6fcc35a82f6d"
+  }
+]
