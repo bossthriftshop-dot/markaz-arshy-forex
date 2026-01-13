@@ -26,7 +26,8 @@ from technical_indicators import (
     detect_pinbar,
     get_daily_high_low,
     get_pivot_points,
-    extract_features_full
+    extract_features_full,
+    calculate_rvi
 )
 
 # --- Konfigurasi ---

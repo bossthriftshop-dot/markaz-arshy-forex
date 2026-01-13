@@ -9,7 +9,7 @@ import logging
 import requests
 from typing import Dict
 
-def send_signal_to_server(symbol: str, signal_json: Dict[str, str], api_key: str, server_url: str, secret_key: str) -> str:
+def send_signal_to_server(symbol: str, signal_json: Dict[str, str], api_key: str, server_url: str, secret_key: str, timeframe: str) -> str:
     """Mengirim sinyal trading ke server dan mengembalikan status keberhasilan."""
     if not isinstance(signal_json, dict):
         logging.error("Tipe data signal_json tidak valid (harus dictionary). Sinyal tidak dikirim.")
@@ -26,13 +26,13 @@ def send_signal_to_server(symbol: str, signal_json: Dict[str, str], api_key: str
         signal_type = 'SELL'
 
     payload = {
-        "signal": signal_type, "signal_json": signal_json, "symbol": symbol,
+        "signal": signal_type, "signal_json": signal_json, "symbol": symbol, "timeframe": timeframe,
         "api_key": api_key, "secret_key": secret_key
     }
 
     try:
         response = requests.post(server_url, json=payload, timeout=10)
-        log_message = f"Sinyal {signal_type} untuk {symbol} dikirim."
+        log_message = f"Sinyal {signal_type} untuk {symbol} ({timeframe}) dikirim."
 
         if response.status_code == 200:
             logging.info(f"✅ {log_message} Status: BERHASIL.")
@@ -52,7 +52,9 @@ def cancel_signal(signal_id: str, active_signals: Dict[str, Dict[str, any]], api
     if signal_id not in active_signals:
         return
 
-    original = active_signals[signal_id]['signal_json']
+    signal_info = active_signals[signal_id]
+    original = signal_info['signal_json']
+    timeframe = signal_info.get('tf', '') # Ambil timeframe dari info sinyal
     symbol = original.get("Symbol")
 
     entry_val = (original.get("BuyEntry") or original.get("SellEntry") or
@@ -71,5 +73,5 @@ def cancel_signal(signal_id: str, active_signals: Dict[str, Dict[str, any]], api
         "BuyLimit": "", "BuyLimitSL": "", "BuyLimitTP": "", "SellLimit": "", "SellLimitSL": "", "SellLimitTP": "",
     }
 
-    send_signal_to_server(symbol, cancel_json, api_key, server_url, secret_key)
+    send_signal_to_server(symbol, cancel_json, api_key, server_url, secret_key, timeframe)
     del active_signals[signal_id]

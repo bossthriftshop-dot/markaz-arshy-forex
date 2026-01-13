@@ -32,6 +32,7 @@ from technical_indicators import (
     get_pivot_points,
     extract_features_full,
     generate_label_fvg,
+    calculate_rvi,
 )
 
 from gng_model import (
@@ -243,7 +244,8 @@ def get_active_trades_results(symbol: str, timeframe: str, mt5_path: str, get_da
             patterns = detect_engulfing(df) + detect_pinbar(df)
             boundary = get_daily_high_low(df)
             pivot = get_pivot_points(df)
-            features = extract_features_full(df, structure, ob, fvg, patterns, boundary, pivot)
+            rvi_value, rvi_signal = calculate_rvi(df)
+            features = extract_features_full(df, structure, ob, fvg, patterns, boundary, pivot, rvi_value, rvi_signal)
             result = {
                 'entry_price': entry_price,
                 'current_price': current_price,

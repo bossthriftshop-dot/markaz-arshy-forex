@@ -28,6 +28,7 @@ from technical_indicators import (
     detect_pinbar,
     get_daily_high_low,
     get_pivot_points,
+    calculate_rvi,
 )
 
 # ==================== GNG MODEL ====================
@@ -152,7 +153,8 @@ def prepare_features_from_df(df: pd.DataFrame) -> Tuple[np.ndarray, str, List[Di
     patterns = detect_engulfing(df) + detect_pinbar(df)
     boundary = get_daily_high_low(df)
     pivot = get_pivot_points(df)
-    features = extract_features_full(df, structure, ob_list, fvg_list, patterns, boundary, pivot)
+    rvi_value, rvi_signal = calculate_rvi(df)
+    features = extract_features_full(df, structure, ob_list, fvg_list, patterns, boundary, pivot, rvi_value, rvi_signal)
     return features, structure, ob_list, fvg_list, patterns, boundary, pivot
 
 def get_gng_input_features(

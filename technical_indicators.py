@@ -239,7 +239,9 @@ def extract_features_full(
     fvg_zones: List[Dict[str, Any]],
     patterns: List[Dict[str, Any]],
     boundary: Dict[str, Any],
-    pivot: Dict[str, float]
+    pivot: Dict[str, float],
+    rvi_value: float,
+    rvi_signal: float
 ) -> np.ndarray:
     """Keluarkan vektor fitur komprehensif untuk AI/ML."""
     last_price = df['close'].iloc[-1]
@@ -255,7 +257,9 @@ def extract_features_full(
         boundary.get('distance_to_low', 0),
         pivot.get('r1', 0) - last_price,
         pivot.get('s1', 0) - last_price,
-        # Tambah fitur lain sesuai kebutuhan...
+        rvi_value,
+        rvi_signal,
+        rvi_value - rvi_signal # Crossover/Divergence RVI
     ]
     return np.array(features, dtype=float)
 
@@ -359,6 +363,37 @@ def detect_liquidity_sweep(df: pd.DataFrame, min_candles_for_swing: int = 5) -> 
                         })
                         break
     return liquidity_sweeps
+
+# ========== RELATIVE VIGOR INDEX (RVI) ==========
+
+def calculate_rvi(df: pd.DataFrame, period: int = 10) -> Tuple[float, float]:
+    """Menghitung Relative Vigor Index (RVI) dan Signal Line-nya."""
+    if len(df) < period + 4: # Membutuhkan cukup data untuk moving average
+        return 0.0, 0.0
+
+    df_copy = df.copy()
+
+    # Perhitungan komponen RVI
+    numerator = (df_copy['close'] - df_copy['open']) + 2 * (df_copy['close'].shift(1) - df_copy['open'].shift(1)) + \
+                2 * (df_copy['close'].shift(2) - df_copy['open'].shift(2)) + (df_copy['close'].shift(3) - df_copy['open'].shift(3))
+    denominator = (df_copy['high'] - df_copy['low']) + 2 * (df_copy['high'].shift(1) - df_copy['low'].shift(1)) + \
+                  2 * (df_copy['high'].shift(2) - df_copy['low'].shift(2)) + (df_copy['high'].shift(3) - df_copy['low'].shift(3))
+
+    # Menggunakan Simple Moving Average (SMA)
+    rvi_num = numerator.rolling(window=period).sum()
+    rvi_den = denominator.rolling(window=period).sum()
+
+    # Hindari pembagian dengan nol
+    rvi = (rvi_num / rvi_den).fillna(0)
+
+    # Hitung Signal Line
+    signal_line = (rvi + 2 * rvi.shift(1) + 2 * rvi.shift(2) + rvi.shift(3)) / 6
+
+    # Ambil nilai terakhir yang valid
+    latest_rvi = rvi.iloc[-1] if not pd.isna(rvi.iloc[-1]) else 0.0
+    latest_signal = signal_line.iloc[-1] if not pd.isna(signal_line.iloc[-1]) else 0.0
+
+    return float(latest_rvi), float(latest_signal)
 
 # ========== OTE ZONE ==========
 
